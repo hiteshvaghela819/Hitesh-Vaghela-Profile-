@@ -15,12 +15,13 @@ Cybersecurity Researcher</h3>
 
 ## 👨‍💻 About Me
 
-Passionate Ethical Hacker focused on identifying and responsibly disclosing security vulnerabilities.
+I am a cybersecurity enthusiast focused on Red Teaming and Security Operations. I practice penetration testing, vulnerability assessment, and attack simulation through hands-on labs on TryHackMe.
 
-Skilled in penetration testing, vulnerability assessment, and offensive security techniques. 
+As a fresher from a non-technical background, I am building my knowledge in networking, Linux, and web security through self-learning and regular lab practice.
 
-Strong understanding of networking, Linux systems, and web technologies.
+I have practical experience with tools like Nmap, Burp Suite, Metasploit, Wireshark, SQLMap, and Splunk. I perform web application testing based on OWASP Top 10 and monitor logs to detect suspicious activities and possible security threats.
 
+I am looking for entry-level opportunities in Red Team or SOC L1 roles where I can learn, contribute to security operations, and improve my technical skills.
 
 ---
 
